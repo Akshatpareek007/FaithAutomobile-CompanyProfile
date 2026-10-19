@@ -1,0 +1,389 @@
+[
+  {
+    "id": "proj-6",
+    "page": 6,
+    "title": "GARNIS VISION INSPECTION MACHINE",
+    "category": "testing",
+    "client": "JRG Automotive Industries",
+    "description": "GARNIS VISION INSPECTION MACHINE | For \u2013 JRG AUTOMOTIVE BAWAL | OUR PROJECT | SPM FOR GRIP RR R/L",
+    "image": "assets/images/vision-inspection-garnish.jpg"
+  },
+  {
+    "id": "proj-7",
+    "page": 7,
+    "title": "Y0M LOUVER SIDE VENT EOL",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "Y0M LOUVER SIDE VENT EOL",
+    "image": "assets/images/y0m-louver-vent-line.jpg"
+  },
+  {
+    "id": "proj-8",
+    "page": 8,
+    "title": "Y0M LOUVER SIDE VENT ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "Y0M LOUVER SIDE VENT ASSEMBLY LINE",
+    "image": "assets/images/y0m-louver-vent-line.jpg"
+  },
+  {
+    "id": "proj-9",
+    "page": 9,
+    "title": "YG8 & Y9T LEVER ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "YG8 & Y9T LEVER ASSEMBLY LINE",
+    "image": "assets/images/lever-assembly-line.jpg"
+  },
+  {
+    "id": "proj-10",
+    "page": 10,
+    "title": "YED LEVER ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "YED LEVER ASSEMBLY LINE | CASE GEAR AUTO CHECKING MACHINE",
+    "image": "assets/images/lever-assembly-line.jpg"
+  },
+  {
+    "id": "proj-11",
+    "page": 11,
+    "title": "SHARK FIN ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "SHARK FIN ASSEMBLY LINE",
+    "image": "assets/images/shark-fin-assembly-line.jpg"
+  },
+  {
+    "id": "proj-12",
+    "page": 12,
+    "title": "BUMPER ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "BUMPER ASSEMBLY LINE",
+    "image": "assets/images/bumper-assembly-line.jpg"
+  },
+  {
+    "id": "proj-13",
+    "page": 13,
+    "title": "YFG ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "YFG ASSEMBLY LINE",
+    "image": "assets/images/yfg-assembly-line.jpg"
+  },
+  {
+    "id": "proj-14",
+    "page": 14,
+    "title": "FUEL FILLER ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "FUEL FILLER ASSEMBLY LINE",
+    "image": "assets/images/fuel-filler-assembly-line.jpg"
+  },
+  {
+    "id": "proj-15",
+    "page": 15,
+    "title": "PLASMA AUTOMATION",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "PLASMA AUTOMATION",
+    "image": "assets/images/plasma-automation-system.jpg"
+  },
+  {
+    "id": "proj-16",
+    "page": 16,
+    "title": "HAIR DRYER HANDLE TESTING MACHINE",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "HAIR DRYER HANDLE TESTING MACHINE",
+    "image": "assets/images/hair-dryer-testing-machine.jpg"
+  },
+  {
+    "id": "proj-17",
+    "page": 17,
+    "title": "CUTTING MACHINE",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "CUTTING MACHINE | CUTTING MACHINE | PSA VISION MACHINE",
+    "image": "assets/extracted/p17_img2_532x1128.jpeg"
+  },
+  {
+    "id": "proj-18",
+    "page": 18,
+    "title": "T-6 PIPE ALT MACHINE",
+    "category": "testing",
+    "client": "Hanon Automotive Systems (Gujarat)",
+    "description": "T-6 PIPE ALT MACHINE | FOR \u2013 HANON GUJRAT | ULTRASONIC SPM 2TG CTR PLR | FOR \u2013 KUMI SUPREME",
+    "image": "assets/images/t6-pipe-alt-leak-machine.jpg"
+  },
+  {
+    "id": "proj-19",
+    "page": 19,
+    "title": "GAUGE FOR OUTLET PIPE NX4",
+    "category": "fixtures",
+    "client": "Hanon Climate Systems (Bhiwadi)",
+    "description": "GAUGE FOR OUTLET PIPE NX4 | FOR \u2013 HANON BHIWARI | DEGATING MACHINE | FOR LOCK NUT",
+    "image": "assets/extracted/p19_img2_866x1155.jpeg"
+  },
+  {
+    "id": "proj-20",
+    "page": 20,
+    "title": "DOT MARKING MACHINE",
+    "category": "marking",
+    "client": "Automotive Tier-1",
+    "description": "DOT MARKING MACHINE",
+    "image": "assets/images/dot-pin-marking-machine.jpg"
+  },
+  {
+    "id": "proj-21",
+    "page": 21,
+    "title": "CAC DEFLECTOR ASSEMBLY LINE",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "CAC DEFLECTOR ASSEMBLY LINE",
+    "image": "assets/images/cac-deflector-assembly.jpg"
+  },
+  {
+    "id": "proj-22",
+    "page": 22,
+    "title": "2D PIN MARKING STATION",
+    "category": "marking",
+    "client": "Automotive Tier-1",
+    "description": "2D PIN MARKING STATION | SLOW CUTTING MACHINE",
+    "image": "assets/extracted/p22_img1_948x1264.jpeg"
+  },
+  {
+    "id": "proj-23",
+    "page": 23,
+    "title": "MULTIFUNCTION PRODUCTION",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "MULTIFUNCTION PRODUCTION | MACHINE | SHELL CHECKING MACHINE",
+    "image": "assets/extracted/p23_img2_995x1020.jpeg"
+  },
+  {
+    "id": "proj-24",
+    "page": 24,
+    "title": "MASK MACHINE SEALING & CUTTING",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "MASK MACHINE SEALING & CUTTING",
+    "image": "assets/extracted/p24_img2_1280x960.jpeg"
+  },
+  {
+    "id": "proj-25",
+    "page": 25,
+    "title": "MASK MACHINE EAR WIRE SEALING",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "MASK MACHINE EAR WIRE SEALING",
+    "image": "assets/extracted/p25_img2_960x981.jpeg"
+  },
+  {
+    "id": "proj-26",
+    "page": 26,
+    "title": "BUSH PRESSING MACHINE",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "BUSH PRESSING MACHINE | AUTOMATIC BEARING I D | MEASURING MACHINE",
+    "image": "assets/images/bearing-id-measuring-machine.jpg"
+  },
+  {
+    "id": "proj-27",
+    "page": 27,
+    "title": "PART PRESENCE SPM FOR",
+    "category": "assembly",
+    "client": "Automotive Tier-1",
+    "description": "PART PRESENCE SPM FOR | BATTERY BOX | CAC DEFELECTOR BRACKET RIVET | ASSEMBLY STATION",
+    "image": "assets/extracted/p27_img2_831x1108.jpeg"
+  },
+  {
+    "id": "proj-28",
+    "page": 28,
+    "title": "OIL PEN LEAK TEST MACHINE",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "OIL PEN LEAK TEST MACHINE | YP-8 MODULE STATION",
+    "image": "assets/extracted/p28_img1_880x1173.jpeg"
+  },
+  {
+    "id": "proj-29",
+    "page": 29,
+    "title": "Y1K BRACKET CHECKING",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "Y1K BRACKET CHECKING | INSPECTION MACHINE | SLOW CUTTING MACHINE",
+    "image": "assets/extracted/p29_img1_788x1051.jpeg"
+  },
+  {
+    "id": "proj-30",
+    "page": 30,
+    "title": "PORT BLOCKAGE SPM",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "PORT BLOCKAGE SPM | FOR INJECTOR CAP | LEAK TEST SPM | FOR INJECTOR CAP",
+    "image": "assets/extracted/p30_img1_928x825.jpeg"
+  },
+  {
+    "id": "proj-31",
+    "page": 31,
+    "title": "LOCK TO LOCK TORQUE",
+    "category": "testing",
+    "client": "Automotive Tier-1",
+    "description": "LOCK TO LOCK TORQUE | TESTING MACHINE | LEAK TEST MACHINE",
+    "image": "assets/images/lock-to-lock-torque-tester.jpg"
+  },
+  {
+    "id": "proj-32",
+    "page": 32,
+    "title": "SEFETY GAURDS & STRUCTURE",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "SEFETY GAURDS & STRUCTURE | FOR WRAPPING MACINE",
+    "image": "assets/extracted/p32_img1_990x1081.jpeg"
+  },
+  {
+    "id": "proj-33",
+    "page": 33,
+    "title": "SEFETY GAURDS & STRUCTURE",
+    "category": "spm",
+    "client": "Automotive Tier-1",
+    "description": "SEFETY GAURDS & STRUCTURE",
+    "image": "assets/images/safety-guards-structure.jpg"
+  },
+  {
+    "id": "proj-34",
+    "page": 34,
+    "title": "ROBOTIC FIXTURE",
+    "category": "robotic",
+    "client": "Automotive Tier-1",
+    "description": "ROBOTIC FIXTURE | ROBOTIC FIXTURE",
+    "image": "assets/images/robotic-fixture-dual.jpg"
+  },
+  {
+    "id": "proj-35",
+    "page": 35,
+    "title": "ROBOTIC CELL FOR YHB MODEL",
+    "category": "robotic",
+    "client": "Automotive Tier-1",
+    "description": "ROBOTIC CELL FOR YHB MODEL | ROBOTIC WELDING FIXTURE",
+    "image": "assets/images/robotic-cell-yhb.jpg"
+  },
+  {
+    "id": "proj-36",
+    "page": 36,
+    "title": "ROBOTIC CELL",
+    "category": "robotic",
+    "client": "Automotive Tier-1",
+    "description": "ROBOTIC CELL | CHECKING FIXTURE",
+    "image": "assets/images/robotic-cell-line.jpg"
+  },
+  {
+    "id": "proj-37",
+    "page": 37,
+    "title": "COVER SIDE MAHINDRA W501",
+    "category": "fixtures",
+    "client": "JRG Automotive Industries",
+    "description": "COVER SIDE MAHINDRA W501 | CHECKING FIXTURE - JRG | DAV COVER  CHECKING FIXTURE | FOR \u2013 JRG AUTOMOTIVE",
+    "image": "assets/images/mahindra-w501-checking-fixture.jpg"
+  },
+  {
+    "id": "proj-38",
+    "page": 38,
+    "title": "PANEL CHECKER",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "PANEL CHECKER | W601 ACAC TANK | CKECKING FIXTURE",
+    "image": "assets/images/panel-checker-fixture.jpg"
+  },
+  {
+    "id": "proj-39",
+    "page": 39,
+    "title": "YP8 CROSS MEMBER",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "YP8 CROSS MEMBER | ASSY INSPECTION GAUGE | PANEL CHECKER",
+    "image": "assets/images/yp8-cross-member-gauge.jpg"
+  },
+  {
+    "id": "proj-40",
+    "page": 40,
+    "title": "O D MEASURING GAUGE",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "O D MEASURING GAUGE | FOR AXEL | PANEL CHECKER",
+    "image": "assets/images/axel-od-measuring-gauge.jpg"
+  },
+  {
+    "id": "proj-41",
+    "page": 41,
+    "title": "PANEL CHECKER",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "PANEL CHECKER | PANEL CHECKER",
+    "image": "assets/extracted/p41_img1_953x715.jpeg"
+  },
+  {
+    "id": "proj-42",
+    "page": 42,
+    "title": "HOUSING UPPER GAUGE",
+    "category": "fixtures",
+    "client": "Hanon Automotive Systems (Gujarat)",
+    "description": "HOUSING UPPER GAUGE | FOR \u2013 HANON GUJRAT | BRACKET GAUGE | FOR \u2013 HANON GUJRAT",
+    "image": "assets/extracted/p42_img1_697x929.jpeg"
+  },
+  {
+    "id": "proj-43",
+    "page": 43,
+    "title": "RECEIVING GAUGE",
+    "category": "fixtures",
+    "client": "Hanon Automotive Systems (Gujarat)",
+    "description": "RECEIVING GAUGE | FOR \u2013 HANON GUJRAT | WIDTH CHECKING GAUGE | FOR \u2013 HANON GUJRAT",
+    "image": "assets/images/hanon-receiving-gauge.jpg"
+  },
+  {
+    "id": "proj-44",
+    "page": 44,
+    "title": "INLET RADIATOR TANK",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "INLET RADIATOR TANK | CHECKING FIXTURE | CAC DEFELECTOR FINAL | CGECKING GAUGE",
+    "image": "assets/images/inlet-radiator-tank-fixture.jpg"
+  },
+  {
+    "id": "proj-45",
+    "page": 45,
+    "title": "Y0M WIRE FRAME GAUGE",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "Y0M WIRE FRAME GAUGE | YXA WIRE FRAME GAUGE",
+    "image": "assets/images/wire-frame-gauge.jpg"
+  },
+  {
+    "id": "proj-46",
+    "page": 46,
+    "title": "YXA WIRE FRAME GAUGE",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "YXA WIRE FRAME GAUGE | YXA WIRE FRAME GAUGE",
+    "image": "assets/extracted/p46_img2_883x1074.jpeg"
+  },
+  {
+    "id": "proj-47",
+    "page": 47,
+    "title": "HOT INSERT RIVET FIXTURE",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "HOT INSERT RIVET FIXTURE | GAUGE",
+    "image": "assets/extracted/p47_img2_1048x973.jpeg"
+  },
+  {
+    "id": "proj-48",
+    "page": 48,
+    "title": "INDUSTRIAL TROLLEY",
+    "category": "fixtures",
+    "client": "Automotive Tier-1",
+    "description": "INDUSTRIAL TROLLEY | FOG LAMP CHECKING FIXTURE",
+    "image": "assets/extracted/p48_img1_811x1082.jpeg"
+  }
+]
