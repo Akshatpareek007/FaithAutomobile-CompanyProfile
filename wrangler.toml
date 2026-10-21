@@ -1,0 +1,17 @@
+name = "faithautomobile-companyprofile"
+compatibility_date = "2026-10-19"
+
+[observability]
+enabled = true
+
+[[exclude]]
+pattern = "node_modules"
+
+[[exclude]]
+pattern = ".git"
+
+[[exclude]]
+pattern = "*.log"
+
+[site]
+bucket = "."
