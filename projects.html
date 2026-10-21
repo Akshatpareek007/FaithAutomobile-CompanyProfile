@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects | Faith Automation Works</title>
+  <meta name="description" content="View our portfolio of precision-engineered automation solutions delivered to Tier-1 automotive clients.">
+  
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" type="image/png" href="assets/images/faith-automation-logo-transparent.png">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar scrolled" id="navbar">
+    <div class="container nav-container">
+      <a href="index.html" class="nav-brand">
+        <div class="nav-logo-wrap">
+          <img src="assets/images/faith-automation-logo.jpg" alt="Faith Automation">
+        </div>
+      </a>
+      
+      <ul class="nav-links" id="navLinks">
+        <li><a href="services.html" class="nav-link">Services</a></li>
+        <li><a href="projects.html" class="nav-link active">Projects</a></li>
+        <li><a href="about.html" class="nav-link">About</a></li>
+        <li><a href="contact.html" class="nav-link">Contact</a></li>
+      </ul>
+      
+      <div class="nav-actions">
+        <a href="contact.html" class="btn btn-primary">Get Quote</a>
+        <button class="mobile-menu-btn" id="mobileMenuBtn">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <p class="page-eyebrow">Portfolio</p>
+      <h1 class="page-title">Our Projects</h1>
+      <p class="page-description">
+        Explore our portfolio of precision-engineered automation solutions delivered to Tier-1 automotive clients.
+      </p>
+    </div>
+  </section>
+
+  <!-- Projects Grid -->
+  <section class="projects-page">
+    <div class="container">
+      <div class="projects-filter" id="projectsFilter">
+        <button class="filter-btn active" data-filter="all">All Projects</button>
+        <button class="filter-btn" data-filter="robotic">Robotic</button>
+        <button class="filter-btn" data-filter="assembly">Assembly</button>
+        <button class="filter-btn" data-filter="testing">Testing</button>
+        <button class="filter-btn" data-filter="fixtures">Fixtures</button>
+      </div>
+      
+      <div class="projects-grid-large" id="projectsGrid">
+        
+        <div class="project-card-large" data-category="robotic">
+          <div class="project-image-large">
+            <img src="assets/images/robotic-cell-yhb.jpg" alt="YHB Robotic Cell">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Robotic</span>
+            <h2 class="project-title-large">YHB Robotic Welding Cell</h2>
+            <p class="project-client">Client: JRG Automotive</p>
+            <p class="project-description">
+              Complete 6-axis robotic welding solution with automated fixture positioning and quality monitoring systems.
+            </p>
+            <ul class="project-specs">
+              <li>6-axis FANUC robot</li>
+              <li>MIG welding capability</li>
+              <li>Automated fixture system</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-card-large" data-category="assembly">
+          <div class="project-image-large">
+            <img src="assets/images/yfg-assembly-line.jpg" alt="YFG Assembly Line">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Assembly</span>
+            <h2 class="project-title-large">YFG Assembly Line</h2>
+            <p class="project-client">Client: Hanon Systems</p>
+            <p class="project-description">
+              Multi-station automated assembly line with integrated quality checks and poka-yoke systems.
+            </p>
+            <ul class="project-specs">
+              <li>8 station configuration</li>
+              <li>Auto-feeding system</li>
+              <li>Real-time monitoring</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-card-large" data-category="testing">
+          <div class="project-image-large">
+            <img src="assets/images/vision-inspection-garnish.jpg" alt="Vision Inspection">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Testing</span>
+            <h2 class="project-title-large">Garnish Vision Inspection</h2>
+            <p class="project-client">Client: Lumax</p>
+            <p class="project-description">
+              AI-powered vision system for automated defect detection and quality assurance.
+            </p>
+            <ul class="project-specs">
+              <li>High-resolution cameras</li>
+              <li>AI defect detection</li>
+              <li>Automated reject system</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-card-large" data-category="fixtures">
+          <div class="project-image-large">
+            <img src="assets/images/mahindra-w501-checking-fixture.jpg" alt="Checking Fixture">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Fixtures</span>
+            <h2 class="project-title-large">Mahindra W501 Fixture</h2>
+            <p class="project-client">Client: JRG Automotive</p>
+            <p class="project-description">
+              Precision checking fixture for dimensional verification with CMM certification.
+            </p>
+            <ul class="project-specs">
+              <li>±0.015mm tolerance</li>
+              <li>CMM certified</li>
+              <li>GR&R tested</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-card-large" data-category="testing">
+          <div class="project-image-large">
+            <img src="assets/images/t6-pipe-alt-leak-machine.jpg" alt="Leak Test Machine">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Testing</span>
+            <h2 class="project-title-large">T6 Pipe ALT Machine</h2>
+            <p class="project-client">Client: BorgWarner</p>
+            <p class="project-description">
+              Air leak testing machine with differential pressure measurement and automated pass/fail sorting.
+            </p>
+            <ul class="project-specs">
+              <li>Micron sensitivity</li>
+              <li>Data logging</li>
+              <li>Auto sorting</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-card-large" data-category="assembly">
+          <div class="project-image-large">
+            <img src="assets/images/shark-fin-assembly-line.jpg" alt="Shark Fin Assembly">
+          </div>
+          <div class="project-content-large">
+            <span class="project-category">Assembly</span>
+            <h2 class="project-title-large">Shark Fin Assembly Line</h2>
+            <p class="project-client">Client: Munjal Showa</p>
+            <p class="project-description">
+              Automated assembly line for automotive antenna components with integrated testing.
+            </p>
+            <ul class="project-specs">
+              <li>6 station setup</li>
+              <li>Integrated testing</li>
+              <li>High throughput</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="cta-section">
+    <div class="container">
+      <div class="cta-content">
+        <h2 class="cta-title">Have a Project in Mind?</h2>
+        <p class="cta-description">Let's discuss how we can help automate your manufacturing.</p>
+        <a href="contact.html" class="btn btn-primary btn-lg">Start a Project</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <img src="assets/images/faith-automation-logo.jpg" alt="Faith Automation">
+          </div>
+          <p class="footer-text">
+            Precision automation solutions for the automotive industry. Engineering excellence since 2015.
+          </p>
+        </div>
+        
+        <div>
+          <h4 class="footer-title">Services</h4>
+          <ul class="footer-links">
+            <li><a href="services.html">Robotic Welding</a></li>
+            <li><a href="services.html">Assembly Lines</a></li>
+            <li><a href="services.html">Vision Inspection</a></li>
+            <li><a href="services.html">Leak Testing</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h4 class="footer-title">Company</h4>
+          <ul class="footer-links">
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h4 class="footer-title">Contact</h4>
+          <ul class="footer-links">
+            <li>+91 9990813151</li>
+            <li>Gurgaon, Haryana</li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; 2025 Faith Automation Works. All rights reserved.</p>
+        <p>Precision Engineering</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
